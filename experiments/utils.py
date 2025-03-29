@@ -1,5 +1,4 @@
 
-
 SUITE_OPTIMAL_STRIPS = [
     "agricola-opt18-strips", 
     "airport", 
@@ -138,4 +137,26 @@ SUITE_HTG = [
     "visitall-multidimensional-5-dim-visitall-FAR-g1",
     "visitall-multidimensional-5-dim-visitall-FAR-g2",
     "visitall-multidimensional-5-dim-visitall-FAR-g3"
+]
+
+SUITE_IPC2023_NUMERIC = [
+    "block-grouping",
+    "counters",
+    "delivery",
+    "drone",
+    "expedition",
+    "ext-plant-watering",
+    "farmland",
+    "fo-counters",
+    "fo-farmland",
+    "fo-sailing",
+    "hydropower",
+    "markettrader",
+    "mprime",
+    "pathwaysmetric",
+    "rover",
+    "sailing",
+    "settlersnumeric",
+    "sugar",
+    "tpp"
 ]
